@@ -43,21 +43,6 @@ Contributions are always welcome! If you have any ideas for improvements or new 
 
 
 
-
-
-## Contact
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/van-duong-ngo-071586222/) for any questions or further discussions, please reach out to me at ngovanduong4896@gmail.com
-
-
-## Contributing
-
-Contributions are always welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
-
-
-
-
-
 ## Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/van-duong-ngo-071586222/) for any questions or further discussions, please reach out to me at ngovanduong4896@gmail.com
